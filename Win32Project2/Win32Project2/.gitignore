@@ -1,0 +1,10 @@
+Debug/
+Release/
+x64/
+*.tmp
+*.dll
+*.props
+*.txt
+RCa07788
+RCb07788
+*.ico

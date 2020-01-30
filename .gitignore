@@ -1,0 +1,7 @@
+LICENTA/
+*.vcxproj
+*.filters
+*.user
+*.sdf
+*.sln
+*.suo

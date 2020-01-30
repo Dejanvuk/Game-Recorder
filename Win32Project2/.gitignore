@@ -1,0 +1,11 @@
+*.Avi
+*.wav
+Win32Project2.sdf
+Win32Project2.sln
+Win32Project2.v11.suo
+Debug/
+ipch/
+Release/
+TestResults/
+x64/
+.vs/
